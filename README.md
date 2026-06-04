@@ -1,3 +1,4 @@
+(images/banner.png)
 # Crime Against Women in India: A Decade of Trends, Judicial Outcomes & Policy Insights (2001–2010)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
