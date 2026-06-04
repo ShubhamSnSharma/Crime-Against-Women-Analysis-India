@@ -1,5 +1,9 @@
 # Crime Against Women in India: A Decade of Trends, Judicial Outcomes & Policy Insights (2001–2010)
 
+![Project Banner](images/banner.png)
+
+An end-to-end data analytics case study examining crime trends, conviction outcomes, judicial backlog, investigation bottlenecks, and policy implications across India using NCRB data from 2001–2010.
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
