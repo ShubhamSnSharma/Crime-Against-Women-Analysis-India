@@ -13,8 +13,6 @@ An end-to-end data analytics case study examining crime trends, conviction outco
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Project Status: Completed](https://img.shields.io/badge/Project_Status-Completed-success?style=flat-square)](https://github.com/ShubhamSnSharma/Crime-Against-Women-Analysis-India)
 
-An end-to-end data analytics case study on crimes against women in India, focused on trend analysis, category concentration, state-level burden, conviction outcomes, judicial backlog, and investigation pipeline bottlenecks.
-
 ## Executive Summary
 This analysis examines over **1.67 million reported crime records** (specifically **1,679,503** reported cases) across **10 crime categories** and **35 States/Union Territories** between **2001 and 2010**. It analyzes **3,850 cleaned category-level records** (covering **4,167 raw records**) of crimes against women in India alongside police investigations and judicial outcomes.
 
